@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD MEHEDI HASAN NAEEM</h1>
 <h3 align="center">A passionate full stack developer, problem solver, Researcher from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedinaeem&label=Profile%20views&color=0e75b6&style=flat" alt="mehedinaeem" /> </p>
+<p align="left"> <img src="https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/487465764_2021659231660789_6763479590797348019_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=2a1932&_nc_ohc=8HS19llOCJIQ7kNvwEi53KG&_nc_oc=Adr2wfJEU8IUgeyypJofsNPEQXW55VjD7OkSPMzX3cZZ2AwB_0GGYFFsMe6buL87ou0&_nc_zt=23&_nc_ht=scontent.fdac31-1.fna&_nc_gid=k6HTjiJnIadqiVdQ79A36w&_nc_ss=7a3a8&oh=00_Af0rQNXR54A_RVjIEwpZVS7F15Ff-fyDddwMbA8UTpePVw&oe=69EB62CF" alt="mehedinaeem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedinaeem" alt="mehedinaeem" /></a> </p>
 
