@@ -21,7 +21,7 @@
 - 📫 How to reach me **mehedinaeem00@gmail.com**
 - 📄 Know about my experiences [https://mehedinaeem.dev/](https://mehedinaeem.dev/)
 
-<h3 align="center">Connect with me</h3>
+<h3>Connect with me</h3>
 
 <p align="center">
   <a href="https://twitter.com/mehedinaeem000"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" style="margin:8px"/></a>
@@ -35,7 +35,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+<h3>Languages and Tools</h3>
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="30" style="margin:8px"/>
